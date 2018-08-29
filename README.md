@@ -1,2 +1,6 @@
-# helloworld
-First code on GitHub
+#include <iostream.h>
+void main()
+{
+    cout << "Hello world!" << endl;
+}
+
